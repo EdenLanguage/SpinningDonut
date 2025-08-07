@@ -4,7 +4,7 @@ Showcase of **spinning ASCII donut** animation implemented in [Eden](https://git
 
 ## 🎥 Demo
 
-![Demo](Assets/SpinningDonut.gif)
+<img src="Assets/SpinningDonut.gif" alt="Spinning donut demo" style="width: 100%;">
 
 > ⚠️ Due to the performance of Eden language, generating frames may take some time. The animation might run slower depending on your system.
 
